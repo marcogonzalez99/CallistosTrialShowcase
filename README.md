@@ -4,7 +4,7 @@
 
 # 🌑 Callisto’s Trial
 
-**Callisto’s Trial** is a brutal, atmospheric action roguelike set in a broken solar system lost to time. You are **Orion**, the sealed son of Callisto, chosen by the gods to face the Trial and uncover the truth of your bloodline — but not everything is as it seems.
+**Callisto’s Trial** is a brutal, atmospheric action roguelike set in a broken solar system lost to time. You are **Orion**, the sealed son of Callisto, chosen by the gods to face the Trial and uncover the truth of your bloodline, but not everything is as it seems.
 
 Designed with purposefully difficult encounters, modular storytelling, and zero filler, the game draws inspiration from **Hades**, **Hyper Light Drifter**, and **Celeste**. Built in **PolarisKit**, it focuses on tight gameplay, handcrafted rooms, and elegant, symbolic progression.
 
@@ -66,7 +66,7 @@ Designed with purposefully difficult encounters, modular storytelling, and zero 
 - 🌙 **Moon** = Stamina  
 - A **Total Eclipse** = Death
 
-Your HUD is not just visual — it is the world watching you.
+Your HUD is not just visual, it is the world watching you.
 
 ---
 
